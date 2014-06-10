@@ -1,0 +1,7 @@
+{
+    "name": "Date Diff Filter",
+    "version": "1.0.0",
+    "author" : "Wender Lima",
+    "description": "Date diff filter to calculate difference between two dates",
+    "dependencies": {}
+}
