@@ -34,5 +34,6 @@ angular.module('dateDiff', [])
                 txDate += (minutes?' e ':'') + minutes+'m';
             }
             return txDate;
+            
         };
     });
